@@ -1,4 +1,4 @@
-# Diagen is a diagram genrators for a software system
+# Diagen is a diagram genrator for a software system
 
 Diagen defines a symbol syntax easy for describing the behavior and
 architecture of a software system.  It is optimized for notes of what
